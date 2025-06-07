@@ -1,0 +1,14 @@
+html
+{
+    background-color: #d4bbf2;
+}
+body
+{
+    font-family:Montserrat;
+}
+.SocialMedia
+{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
